@@ -1,0 +1,13 @@
+{
+  "name": "bloom-stack",
+  "version": "1.0.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "node src/index.ts",
+    "dev": "node --watch src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
